@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Paper" size="6.000000 4.340164" />
+    <ImageTarget name="20190724_100431" size="6.000000 6.768421" />
+    <ImageTarget name="Sushi" size="6.000000 9.807017" />
+    <ImageTarget name="ARPhoto" size="6.000000 8.636580" />
+  </Tracking>
+</QCARConfig>
